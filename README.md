@@ -18,5 +18,5 @@ Windows下受到一些限制，所以必须要执行以下命令
 
 ```bash
 npm run webpack
-rd /s /q build
+rd /s /q build  
 ```
